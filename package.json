@@ -1,0 +1,22 @@
+{
+  "name": "@jlenon7/tads-tdd",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlenon7/tads-tdd.git"
+  },
+  "keywords": [],
+  "author": "jlenon7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlenon7/tads-tdd/issues"
+  },
+  "homepage": "https://github.com/jlenon7/tads-tdd#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
